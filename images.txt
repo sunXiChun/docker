@@ -1,2 +1,1 @@
-docker.io/tiredofit/self-service-password:latest
-
+python:3.14-slim
