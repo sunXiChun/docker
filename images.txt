@@ -1,1 +1,1 @@
-onlyoffice/documentserver:8.1.1
+tomcat:11.0.0-jre21-temurin-noble
