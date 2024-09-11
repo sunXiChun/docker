@@ -1,1 +1,1 @@
-yanxiaofei2018/kettle
+yanxiaofei2018/kettle:8.3.0.3-520
