@@ -1,1 +1,1 @@
-pentaho/pentaho-data-integration
+pentaho/kettle
