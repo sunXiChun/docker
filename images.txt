@@ -1,1 +1,1 @@
-pentaho/kettle
+flynnli/kettle:1.26
