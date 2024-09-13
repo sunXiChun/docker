@@ -1,1 +1,1 @@
-flynnli/kettle:1.26
+obsidiandynamics/kafdrop
