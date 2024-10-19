@@ -1,1 +1,1 @@
-apache/skywalking-java-agent:8.16.0-alpine
+rancher/rancher-agent:v2.8.2
