@@ -1,1 +1,1 @@
-rancher/rancher-agent:v2.7.5
+rancher/rancher-webhook:v0.3.5
