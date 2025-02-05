@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:git-9c0a783-ollama
+ghcr.io/open-webui/open-webui:git-533b62f-cuda
