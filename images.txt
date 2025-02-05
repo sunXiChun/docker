@@ -1,1 +1,1 @@
-docker:1.27.0
+open-webui:v0.5.7
