@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:git-533b62f-cuda
+ghcr.io/open-webui/open-webui:0.5.10-cuda
