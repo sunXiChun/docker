@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:git-febc5d3-cuda
+rancher/rancher:latest
