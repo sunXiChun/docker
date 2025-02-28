@@ -1,3 +1,4 @@
+node:22.13.0-alpine
 rancher/rancher-webhook:v0.6.3
 rancher/shell:v0.3.0
 node:14.17.0-alpine
