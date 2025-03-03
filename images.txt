@@ -1,3 +1,6 @@
+posthog/posthog:e139025406ed80d5e2186ffeb0d103b05a7e22a3
+
+
 docker.io/library/node:18.12.1-bullseye-slim
 docker.io/library/python:3.8.14-slim-bullseye
 docker.io/library/debian:bullseye-slim
