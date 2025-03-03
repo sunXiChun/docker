@@ -1,3 +1,7 @@
+docker.io/library/node:18.12.1-bullseye-slim
+docker.io/library/python:3.8.14-slim-bullseye
+docker.io/library/debian:bullseye-slim
+
 postgres:12-alpine
 redis:6.2.7-alpine
 clickhouse/clickhouse-server:22.3
@@ -5,3 +9,4 @@ zookeeper:3.7.0
 bitnami/kafka:2.8.1-debian-10-r99
 minio/minio:RELEASE.2022-06-25T15-50-16Z
 maildev/maildev:2.0.5
+
