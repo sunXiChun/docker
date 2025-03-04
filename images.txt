@@ -1,1 +1,5 @@
-tarampampam/webhook-tester:1.1.0
+docker.io/library/unit:1.33.0-python3.11
+docker.io/library/python:3.11.9-slim-bookworm
+ghcr.io/posthog/rust-node-container:bookworm_rust_1.82-node_18.19.1
+docker.io/library/debian:bookworm-slim
+docker.io/library/node:18.19.1-bookworm-slim
