@@ -14,3 +14,9 @@ ghcr.io/posthog/posthog/capture:master
 ghcr.io/posthog/posthog/property-defs-rs:master
 ghcr.io/posthog/posthog/feature-flags:master
 ghcr.io/posthog/livestream:main
+elasticsearch:7.16.2
+temporalio/auto-setup:1.20.0
+temporalio/admin-tools:1.20.0
+temporalio/ui:2.31.2
+ghcr.io/posthog/posthog/cyclotron-fetch:master
+ghcr.io/posthog/posthog/cyclotron-janitor:master
