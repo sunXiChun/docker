@@ -1,1 +1,1 @@
-nginx:1.19.5
+ghcr.io/open-webui/open-webui:git-6c9a4d6-cuda
