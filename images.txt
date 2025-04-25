@@ -1,1 +1,1 @@
-rabbitmq:3-management
+maven:3.8.4-jdk-8
