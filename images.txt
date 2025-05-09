@@ -1,9 +1,1 @@
-damo/speech_fsmn_vad_zh-cn-16k-common-onnx
-damo/speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-onnx
-damo/speech_paraformer-large_asr_nat-zh-cn-16k-common-vocab8404-online-onnx
-damo/punc_ct-transformer_zh-cn-common-vad_realtime-vocab272727-onnx
-damo/speech_ngram_lm_zh-cn-ai-wesp-fst
-thuduj12/fst_itn_zh
-iic/SenseVoiceSmall-onnx
-damo/speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-onnx
-damo/speech_paraformer-large-contextual_asr_nat-zh-cn-16k-common-vocab8404-onnx
+docker.elastic.co/kibana/kibana:8.18.1
