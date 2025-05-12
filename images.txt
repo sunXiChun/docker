@@ -1,1 +1,1 @@
-fluent/fluent-bit
+fluent/fluent-bit:4.0
