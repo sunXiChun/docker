@@ -1,1 +1,6 @@
-easysoft/zentao:18.2
+easysoft/zentao:12.5.3
+easysoft/zentao:16.5
+easysoft/zentao:17.8
+easysoft/zentao:18.5
+easysoft/zentao:18.13
+easysoft/zentao:21.4
