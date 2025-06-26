@@ -1,1 +1,1 @@
-easysoft/zentao:21.7.1-20250529-php7
+easysoft/zentao:18.13
