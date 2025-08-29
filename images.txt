@@ -1,1 +1,1 @@
-python:3.13-slim
+maxer232/whisperlivekit-defaults
