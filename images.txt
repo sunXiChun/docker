@@ -1,1 +1,1 @@
-python:3.12-slim-bookworm
+pab1it0/prometheus-mcp:latest
