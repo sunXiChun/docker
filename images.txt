@@ -1,1 +1,1 @@
-copilotkit/open-mcp-client
+ubuntu:22.04
