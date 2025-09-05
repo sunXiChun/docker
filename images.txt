@@ -1,1 +1,1 @@
-khulesa/mcp-client:0.2.6
+copilotkit/open-mcp-client
