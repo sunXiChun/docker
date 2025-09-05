@@ -1,1 +1,1 @@
-clarityq/mcp-client:main
+khulesa/mcp-client:0.2.6
