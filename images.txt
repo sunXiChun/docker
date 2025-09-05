@@ -1,1 +1,1 @@
-pab1it0/prometheus-mcp
+open-mcp-client
