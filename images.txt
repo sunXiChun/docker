@@ -1,1 +1,1 @@
-open-mcp-client
+clarityq/mcp-client:main
