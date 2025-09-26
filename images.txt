@@ -1,1 +1,12 @@
-coze-dev/coze-loop:dev
+docker.io/cozedev/coze-loop:1.2.0
+docker.io/clickhouse/clickhouse-server:latest
+docker.io/clickhouse/clickhouse-server:latest
+ docker.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
+docker.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
+docker.io/library/mysql:9.4.0
+docker.io/library/mysql:9.4.0
+docker.io/library/nginx:1.28.0
+ docker.io/library/redis:8.2.0
+docker.io/apache/rocketmq:5.3.3
+ docker.io/apache/rocketmq:5.3.3
+ docker.io/apache/rocketmq:5.3.3
