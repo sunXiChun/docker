@@ -1,2 +1,5 @@
-apache/skywalking-ui:9.7.0
-apache/skywalking-oap-server:9.7.0
+apache/skywalking-java-agent:9.5.0-java8
+apache/skywalking-java-agent:9.5.0-java11
+apache/skywalking-java-agent:9.5.0-java17
+apache/skywalking-java-agent:9.5.0-java21
+
