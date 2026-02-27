@@ -1,2 +1,1 @@
-node:22-bookworm
-
+nginx:alpine
