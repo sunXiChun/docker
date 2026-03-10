@@ -1,1 +1,1 @@
-rhcecc/curl:latest
+mysql:8.0.28
