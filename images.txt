@@ -1,1 +1,1 @@
-mysql:8.0.28
+registry.k8s.io/etcd:3.6.6-0
