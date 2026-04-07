@@ -1,1 +1,1 @@
-whyour/qinglong:debian
+whyour/qinglong:2.20.2-debian
