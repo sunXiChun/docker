@@ -1,1 +1,4 @@
-moby/buildkit:buildx-stable-1
+valkey/valkey:8
+infiniflow/ragflow:v0.19.0-slim
+mysql:8.0.39
+elasticsearch:8.11.3
