@@ -1,3 +1,9 @@
+rancher/rancher:v2.7.18
+rancher/rancher:v2.8.15
+rancher/rancher:v2.9.12
+rancher/rancher:v2.10.12
+
+
 python:3.13.17-bookwrom
 rust:1.94-bookworm
 flink:2.1.3-scala_2.12-java21
