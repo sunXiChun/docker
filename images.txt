@@ -1,3 +1,6 @@
+
+rancher/rancher-agent:v2.10.12
+
 rancher/rancher:v2.7.18
 rancher/rancher:v2.8.15
 rancher/rancher:v2.9.12
